@@ -3,8 +3,11 @@
 
 The Quran, also romanized Qur'an or Koran, is the central religious text of Islam, believed by Muslims to be a revelation from Allah. It is widely regarded as the finest work in classical Arabic literature. It is organized in 114 chapters, which consist of verses
 
-This Website will Generat Random Quran Ayat With Arabic and Ebglish Meaning. You can also share it on twetter or facebook
+This Website will Generat Random Quran Ayat With Arabic and Ebglish Meaning. You can also share it on twetter or facebook.
+
 ## Demo
+
+![](./Capture.PNG)
 
 
 ## API Reference
